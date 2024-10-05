@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.4eefa2a2.css",
+    "main.js": "/PortfolioWebsite/static/js/main.7de35465.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortfolioWebsite/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioWebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chatApp.jpg": "/PortfolioWebsite/static/media/chatApp.ea93997c0986ea458be7.jpg",
+    "static/media/blogApp.jpg": "/PortfolioWebsite/static/media/blogApp.cbca8aa4995014f2ccba.jpg",
+    "static/media/payrollSystem.jpg": "/PortfolioWebsite/static/media/payrollSystem.986ba254f0b81160af64.jpg",
+    "static/media/WeatherApp.jpg": "/PortfolioWebsite/static/media/WeatherApp.a5899a659d124a9e36a0.jpg",
+    "static/media/todolist.jpg": "/PortfolioWebsite/static/media/todolist.9b32023cc4aa54b69797.jpg",
+    "static/media/Photoroom.png": "/PortfolioWebsite/static/media/Photoroom.53e81d1a707f61d7a86b.png",
+    "static/media/developer.png": "/PortfolioWebsite/static/media/developer.9747063a094c9d1ecd92.png",
+    "static/media/AvatarPhoto.png": "/PortfolioWebsite/static/media/AvatarPhoto.23367acc4a444e179fe4.png",
+    "static/media/Rishabh_Tekam_Resume.pdf": "/PortfolioWebsite/static/media/Rishabh_Tekam_Resume.35aa94eb9153d1ee59e3.pdf",
+    "static/media/VendorManagementSystem.webp": "/PortfolioWebsite/static/media/VendorManagementSystem.3d491c8ea420160a3815.webp",
+    "static/media/logo.png": "/PortfolioWebsite/static/media/logo.aae157cc69d5cb3b65ee.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "static/media/pre.svg": "/PortfolioWebsite/static/media/pre.0c407f750076f5738093.svg",
+    "main.4eefa2a2.css.map": "/PortfolioWebsite/static/css/main.4eefa2a2.css.map",
+    "main.7de35465.js.map": "/PortfolioWebsite/static/js/main.7de35465.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortfolioWebsite/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioWebsite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eefa2a2.css",
+    "static/js/main.7de35465.js"
+  ]
+}
