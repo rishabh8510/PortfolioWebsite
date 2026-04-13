@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.acf6d60e.css",
+    "main.js": "/PortfolioWebsite/static/js/main.5050c25a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortfolioWebsite/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioWebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chatApp.jpg": "/PortfolioWebsite/static/media/chatApp.ea93997c0986ea458be7.jpg",
+    "static/media/Photoroom.png": "/PortfolioWebsite/static/media/Photoroom.53e81d1a707f61d7a86b.png",
+    "static/media/developer.png": "/PortfolioWebsite/static/media/developer.9747063a094c9d1ecd92.png",
+    "static/media/AvatarPhoto.png": "/PortfolioWebsite/static/media/AvatarPhoto.23367acc4a444e179fe4.png",
+    "static/media/Rishabh_Tekam_Resume.pdf": "/PortfolioWebsite/static/media/Rishabh_Tekam_Resume.f321423b5fe602f59e24.pdf",
+    "static/media/vasudev.jpeg": "/PortfolioWebsite/static/media/vasudev.0843d68389abbaf1abe5.jpeg",
+    "static/media/logo.png": "/PortfolioWebsite/static/media/logo.aae157cc69d5cb3b65ee.png",
+    "static/media/dfwcz.png": "/PortfolioWebsite/static/media/dfwcz.87cc7bdce28b9228e18d.png",
+    "static/media/shipwine_logo.jpg": "/PortfolioWebsite/static/media/shipwine_logo.2a3eabfb9c278ea432ca.jpg",
+    "static/media/truck.png": "/PortfolioWebsite/static/media/truck.9cfb9503fa458fc4476a.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "static/media/pre.svg": "/PortfolioWebsite/static/media/pre.7d3a46bf9d9bc4a3131f.svg",
+    "main.acf6d60e.css.map": "/PortfolioWebsite/static/css/main.acf6d60e.css.map",
+    "main.5050c25a.js.map": "/PortfolioWebsite/static/js/main.5050c25a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortfolioWebsite/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioWebsite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf6d60e.css",
+    "static/js/main.5050c25a.js"
+  ]
+}
