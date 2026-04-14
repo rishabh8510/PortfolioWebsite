@@ -149,7 +149,7 @@ function Projects() {
               isBlog={false}
               title="Construction Management System (US Based)"
               description="A full stack project for managing construction work. Built using React (Vite), Express and PostgreSQL. Includes modules for handling project data, tasks and overall workflow."
-              demoLink="#"
+              demoLink="https://dfwcz.com/"
             />
           </Col>
 
@@ -182,7 +182,7 @@ function Projects() {
               isBlog={false}
               title="Wine Management System (US Based)"
               description="Worked on a system for managing wine-related data and operations. The project includes handling records and organizing data in a structured way for business use."
-              demoLink="#"
+              demoLink="https://www.shipwine.com/"
             />
           </Col>
 
